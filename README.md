@@ -1,2 +1,2 @@
-# gan_birds
-GAN generated birds
+# AIvians
+GAN generated birbs
